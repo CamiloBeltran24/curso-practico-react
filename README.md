@@ -1,1 +1,1 @@
-# curso-practico-React
+# curso-practico-webpack
